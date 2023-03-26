@@ -1,0 +1,25 @@
+.top_container
+{
+    background-color: aqua;
+    padding: 20px;
+    border:solid 10px;
+    height: 200px;
+    width: 200px;
+}
+.middle_container
+{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border:solid 20px;
+    margin-left: 260px;
+    margin-right: 300px;
+}
+.down_container
+{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    margin-left: 500px;
+    border: solid 10px;
+}
